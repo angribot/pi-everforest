@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-08-11
+
 ### Added
 
 - Six everforest schemes (`dark`/`light` × `hard`/`medium`/`soft`) as pi themes, each mapping the upstream palette to all pi color tokens (51 required + optional `thinkingMax`).
