@@ -1,0 +1,13 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+### Added
+
+- Six everforest schemes (`dark`/`light` × `hard`/`medium`/`soft`) as pi themes, each mapping the upstream palette to all pi color tokens (51 required + optional `thinkingMax`).
+- pi theme package scaffolding: `package.json` with `pi.themes` manifest for install via `pi install git:...`.
