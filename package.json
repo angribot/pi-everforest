@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/angribot/pi-everforest.git"
   },
-  "homepage": "https://github.com/angribot/pi-everforest#readme",
+  "homepage": "https://pi.dev/packages/pi-everforest",
   "bugs": {
     "url": "https://github.com/angribot/pi-everforest/issues"
   },
