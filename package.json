@@ -3,6 +3,13 @@
   "version": "0.1.4",
   "description": "Everforest color schemes (dark/light × hard/medium/soft) as themes for the pi coding agent",
   "license": "MIT",
+  "files": [
+    "themes",
+    "assets/preview.svg",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angribot/pi-everforest.git"
