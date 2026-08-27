@@ -1,6 +1,6 @@
 {
   "name": "pi-everforest",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Everforest color schemes (dark/light × hard/medium/soft) as themes for the pi coding agent",
   "license": "MIT",
   "files": [
