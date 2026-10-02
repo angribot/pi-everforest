@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Declare light/dark appearance and explicit scrollbar colors for all six themes, matching Pi 1.0.0 defaults without changing the Everforest palettes.
+
 ## [0.1.5] - 2026-08-27
 
 ### Changed

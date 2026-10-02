@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/earendil-works/pi/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
   "name": "everforest-light-hard",
+  "appearance": "light",
   "vars": {
     "bg_dim": "#F2EFDF",
     "bg0": "#FFFBEF",
@@ -44,6 +45,8 @@
     "thinkingText": "grey1",
 
     "selectedBg": "bg_visual",
+    "scrollbarTrack": "grey1",
+    "scrollbarThumb": "fg",
     "userMessageBg": "bg1",
     "userMessageText": "fg",
     "customMessageBg": "bg_purple",
