@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Update all six themes to Pi's published JSON schema URL for editor validation and completion.
+
 ## [0.1.6] - 2026-10-02
 
 ### Changed
