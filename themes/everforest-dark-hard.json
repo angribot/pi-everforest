@@ -43,7 +43,6 @@
     "dim": "grey0",
     "text": "fg",
     "thinkingText": "grey1",
-
     "selectedBg": "bg_visual",
     "searchMatchBg": "bg_green",
     "searchMatchText": "fg",
@@ -59,7 +58,6 @@
     "toolErrorBg": "bg_red",
     "toolTitle": "orange",
     "toolOutput": "fg",
-
     "mdHeading": "orange",
     "mdLink": "purple",
     "mdLinkUrl": "blue",
@@ -70,11 +68,9 @@
     "mdQuoteBorder": "grey1",
     "mdHr": "purple",
     "mdListBullet": "red",
-
     "toolDiffAdded": "green",
     "toolDiffRemoved": "red",
     "toolDiffContext": "grey1",
-
     "syntaxComment": "grey1",
     "syntaxKeyword": "red",
     "syntaxFunction": "green",
@@ -84,7 +80,6 @@
     "syntaxType": "yellow",
     "syntaxOperator": "orange",
     "syntaxPunctuation": "grey1",
-
     "thinkingOff": "bg4",
     "thinkingMinimal": "grey0",
     "thinkingLow": "blue",
@@ -92,7 +87,6 @@
     "thinkingHigh": "purple",
     "thinkingXhigh": "red",
     "thinkingMax": "yellow",
-
     "bashMode": "green"
   },
   "export": {
