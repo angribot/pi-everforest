@@ -44,6 +44,8 @@
     "text": "fg",
     "thinkingText": "grey1",
     "selectedBg": "bg_visual",
+    "searchMatchBg": "bg_green",
+    "searchMatchText": "fg",
     "scrollbarTrack": "grey1",
     "scrollbarThumb": "fg",
     "userMessageBg": "bg1",

@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Declare explicit search highlight colors for all six themes, so transcript search matches no longer fall back to the selection color.
+
 ## [0.1.7] - 2026-10-13
 
 ### Changed
